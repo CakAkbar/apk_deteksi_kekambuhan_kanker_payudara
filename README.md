@@ -97,5 +97,5 @@ Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) unt
 Jika ada pertanyaan atau memerlukan dukungan, silakan hubungi:
 
 - Nama: Abdul Hijjah Akbarul Hidayatulloh
-- Email: abdul.hijjah.akbarul.hidayatulloh@example.com
+- Email: abdul.hijjah.akbarul.hidayatulloh@gmail.com
 - GitHub: [CakAkbar](https://github.com/CakAkbar)
